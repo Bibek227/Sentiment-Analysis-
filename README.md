@@ -7,12 +7,6 @@ This project performs sentiment analysis using Natural Language Processing (NLP)
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Model Training](#model-training)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
